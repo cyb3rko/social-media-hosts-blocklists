@@ -40,4 +40,5 @@
 0.0.0.0 www.pinterest.com.au
 0.0.0.0 www.pinterest.com.edgekey.net
 0.0.0.0 www.pinterest.com.gslb.pinterest.com
+0.0.0.0 www.pinterest.de
 0.0.0.0 www.pinterest.fr
