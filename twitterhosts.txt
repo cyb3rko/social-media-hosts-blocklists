@@ -114,4 +114,5 @@
 0.0.0.0 www.twitter.com
 0.0.0.0 www2.twitter.com
 0.0.0.0 www4.twitter.com
+0.0.0.0 www.x.com
 0.0.0.0 x.com
