@@ -192,6 +192,7 @@
 0.0.0.0 dm-maliva-quic.byteoversea.com
 0.0.0.0 dm-maliva16.byteoversea.com
 0.0.0.0 dm-sg-quic.byteoversea.com
+0.0.0.0 dm.bytedance.com
 0.0.0.0 dm.byteoversea.com
 0.0.0.0 dm16-alisg.byteoversea.com
 0.0.0.0 dm16-alisg.tiktokv.com
@@ -365,6 +366,7 @@
 0.0.0.0 p16-va-tiktok.ibyteimg.com
 0.0.0.0 p16-va.tiktokcdn.com
 0.0.0.0 p16-webcast.tiktokcdn.com
+0.0.0.0 p16.hypstarcdn.com
 0.0.0.0 p16.muscdn.com
 0.0.0.0 p16.tiktokcdn.com
 0.0.0.0 p16a.tiktokcdn.com
