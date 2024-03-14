@@ -4,6 +4,7 @@ Social media hosts blocklists I use for [AdAway](https://github.com/AdAway/AdAwa
 Can be fed into [stevenblack-hosts-trimmed](https://github.com/cyb3rko/stevenblack-hosts-trimmed).
 
 It currently contains bocklists for:
+- Discord
 - Facebook
 - Instagram
 - Pinterest
