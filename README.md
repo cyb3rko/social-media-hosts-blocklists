@@ -8,5 +8,5 @@ It currently contains bocklists for:
 - Facebook
 - Instagram
 - Pinterest
-- TikTok
+- TikTok (and related Bytedance services)
 - Twitter
