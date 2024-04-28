@@ -2435,6 +2435,48 @@
 0.0.0.0 www.pinterest.de
 0.0.0.0 www.pinterest.fr
 
+# Telegram (40 entries)
+0.0.0.0 ads.telegram.org
+0.0.0.0 api.telegram.org
+0.0.0.0 autoconfig.telegram.me
+0.0.0.0 bugs.telegram.org
+0.0.0.0 com.telegram.me
+0.0.0.0 core.telegram.org
+0.0.0.0 crm.telegram.me
+0.0.0.0 desktop.telegram.org
+0.0.0.0 gbot.integrations.telegram.org
+0.0.0.0 git.telegram.me
+0.0.0.0 macos.telegram.org
+0.0.0.0 macupdates.telegram.org
+0.0.0.0 mail.telegram.me
+0.0.0.0 mobile.telegram.me
+0.0.0.0 mx1.telegram.org
+0.0.0.0 mx10.telegram.org
+0.0.0.0 mx2.telegram.org
+0.0.0.0 my.telegram.org
+0.0.0.0 nicegram.app
+0.0.0.0 nummus.telegram.me
+0.0.0.0 osx.telegram.org
+0.0.0.0 preview.telegram.me
+0.0.0.0 proxy.telegram.org
+0.0.0.0 rtmp.t.me
+0.0.0.0 t.me
+0.0.0.0 telegram.me
+0.0.0.0 telegram.org
+0.0.0.0 telesco.pe
+0.0.0.0 tg.dev
+0.0.0.0 translations.telegram.org
+0.0.0.0 tsf.telegram.org
+0.0.0.0 web.telegram.org
+0.0.0.0 wg.telegram.me
+0.0.0.0 www.api.telegram.org
+0.0.0.0 www.gbot.integrations.telegram.org
+0.0.0.0 www.macupdates.telegram.org
+0.0.0.0 www.mail.telegram.org
+0.0.0.0 www.osx.telegram.org
+0.0.0.0 www.proxy.telegram.org
+0.0.0.0 www.t.me
+
 # TikTok (3706 entries)
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com
 0.0.0.0 0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net
