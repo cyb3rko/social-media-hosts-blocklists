@@ -1,40 +1,40 @@
-ads.telegram.org
-api.telegram.org
-autoconfig.telegram.me
-bugs.telegram.org
-com.telegram.me
-core.telegram.org
-crm.telegram.me
-desktop.telegram.org
-gbot.integrations.telegram.org
-git.telegram.me
-macos.telegram.org
-macupdates.telegram.org
-mail.telegram.me
-mobile.telegram.me
-mx1.telegram.org
-mx10.telegram.org
-mx2.telegram.org
-my.telegram.org
-nicegram.app
-nummus.telegram.me
-osx.telegram.org
-preview.telegram.me
-proxy.telegram.org
-rtmp.t.me
-t.me
-telegram.me
-telegram.org
-telesco.pe
-tg.dev
-translations.telegram.org
-tsf.telegram.org
-web.telegram.org
-wg.telegram.me
-www.api.telegram.org
-www.gbot.integrations.telegram.org
-www.macupdates.telegram.org
-www.mail.telegram.org
-www.osx.telegram.org
-www.proxy.telegram.org
-www.t.me
+0.0.0.0 ads.telegram.org
+0.0.0.0 api.telegram.org
+0.0.0.0 autoconfig.telegram.me
+0.0.0.0 bugs.telegram.org
+0.0.0.0 com.telegram.me
+0.0.0.0 core.telegram.org
+0.0.0.0 crm.telegram.me
+0.0.0.0 desktop.telegram.org
+0.0.0.0 gbot.integrations.telegram.org
+0.0.0.0 git.telegram.me
+0.0.0.0 macos.telegram.org
+0.0.0.0 macupdates.telegram.org
+0.0.0.0 mail.telegram.me
+0.0.0.0 mobile.telegram.me
+0.0.0.0 mx1.telegram.org
+0.0.0.0 mx10.telegram.org
+0.0.0.0 mx2.telegram.org
+0.0.0.0 my.telegram.org
+0.0.0.0 nicegram.app
+0.0.0.0 nummus.telegram.me
+0.0.0.0 osx.telegram.org
+0.0.0.0 preview.telegram.me
+0.0.0.0 proxy.telegram.org
+0.0.0.0 rtmp.t.me
+0.0.0.0 t.me
+0.0.0.0 telegram.me
+0.0.0.0 telegram.org
+0.0.0.0 telesco.pe
+0.0.0.0 tg.dev
+0.0.0.0 translations.telegram.org
+0.0.0.0 tsf.telegram.org
+0.0.0.0 web.telegram.org
+0.0.0.0 wg.telegram.me
+0.0.0.0 www.api.telegram.org
+0.0.0.0 www.gbot.integrations.telegram.org
+0.0.0.0 www.macupdates.telegram.org
+0.0.0.0 www.mail.telegram.org
+0.0.0.0 www.osx.telegram.org
+0.0.0.0 www.proxy.telegram.org
+0.0.0.0 www.t.me
